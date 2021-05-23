@@ -1,0 +1,21 @@
+.btn-group:hover {
+    background: #ff9800;
+}
+
+.card p {
+    margin-top: -3px;
+    margin-bottom: 3px;
+}
+
+.card h5 {
+    margin-bottom: 2px;
+}
+
+.row .card:hover {
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 3);
+    transform: scale(1.02);
+}
+
+.row p {
+    font-size: 14px;
+}
